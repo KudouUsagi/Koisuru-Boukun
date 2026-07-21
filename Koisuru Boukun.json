@@ -61,6 +61,56 @@
         "KudouUsagi": "/proxy/api/imgchest/chapter/ljyqp396e72"
       }
     },
+    "11": {
+      "title": "11",
+      "volume": "3",
+      "last_updated": "1784594887",
+      "groups": {
+        "KudouUsagi": [
+          ""
+        ]
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "3",
+      "last_updated": "1784594898",
+      "groups": {
+        "KudouUsagi": [
+          ""
+        ]
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "3",
+      "last_updated": "1784594907",
+      "groups": {
+        "KudouUsagi": [
+          ""
+        ]
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "3",
+      "last_updated": "1784594915",
+      "groups": {
+        "KudouUsagi": [
+          ""
+        ]
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "3",
+      "last_updated": "1784594924",
+      "groups": {
+        "KudouUsagi": [
+          ""
+        ]
+      }
+    },
     "78": {
       "title": "Vol 15 Plan 1",
       "volume": "15",
@@ -203,6 +253,16 @@
       "last_updated": "1784592937",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/5xy25vpo8yl"
+      }
+    },
+    "15.5": {
+      "title": "15.5",
+      "volume": "3",
+      "last_updated": "1784594935",
+      "groups": {
+        "KudouUsagi": [
+          ""
+        ]
       }
     }
   }
