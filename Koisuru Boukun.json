@@ -165,6 +165,38 @@
         "Unknown": "/proxy/api/imgchest/chapter/n87wpozwx4x"
       }
     },
+    "21": {
+      "title": "21",
+      "volume": "5",
+      "last_updated": "1784674246",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/ljyqpo9wn72"
+      }
+    },
+    "22": {
+      "title": "22",
+      "volume": "5",
+      "last_updated": "1784674292",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/5xy256pr9yl"
+      }
+    },
+    "23": {
+      "title": "23",
+      "volume": "5",
+      "last_updated": "1784674380",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/n87wpo6wg4x"
+      }
+    },
+    "24": {
+      "title": "24",
+      "volume": "5",
+      "last_updated": "1784674513",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/5xy256pw9yl"
+      }
+    },
     "78": {
       "title": "Vol 15 Plan 1",
       "volume": "15",
@@ -363,6 +395,14 @@
       "last_updated": "1784672573",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/vj4jpbdme48"
+      }
+    },
+    "24.5": {
+      "title": "24.5",
+      "volume": "5",
+      "last_updated": "1784674615",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/agyvpo6zby8"
       }
     }
   }
