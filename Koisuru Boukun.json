@@ -66,9 +66,7 @@
       "volume": "3",
       "last_updated": "1784594887",
       "groups": {
-        "KudouUsagi": [
-          ""
-        ]
+        "KudouUsagi": "/proxy/api/imgchest/chapter/ljyqqldkdy2"
       }
     },
     "12": {
@@ -76,9 +74,7 @@
       "volume": "3",
       "last_updated": "1784594898",
       "groups": {
-        "KudouUsagi": [
-          ""
-        ]
+        "KudouUsagi": "/proxy/api/imgchest/chapter/6eyr2exnx7p"
       }
     },
     "13": {
@@ -86,9 +82,7 @@
       "volume": "3",
       "last_updated": "1784594907",
       "groups": {
-        "KudouUsagi": [
-          ""
-        ]
+        "KudouUsagi": "/proxy/api/imgchest/chapter/ljyqdj9kx72"
       }
     },
     "14": {
@@ -96,9 +90,7 @@
       "volume": "3",
       "last_updated": "1784594915",
       "groups": {
-        "KudouUsagi": [
-          ""
-        ]
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
       }
     },
     "15": {
@@ -106,9 +98,7 @@
       "volume": "3",
       "last_updated": "1784594924",
       "groups": {
-        "KudouUsagi": [
-          ""
-        ]
+        "KudouUsagi": "/proxy/api/imgchest/chapter/6eyr8epqe7p"
       }
     },
     "78": {
@@ -256,13 +246,11 @@
       }
     },
     "15.5": {
-      "title": "Volume 3 Extra",
+      "title": "Volume 3 Extra Next Week",
       "volume": "3",
       "last_updated": "1784594935",
       "groups": {
-        "KudouUsagi": [
-          ""
-        ]
+        "KudouUsagi": "/proxy/api/imgchest/chapter/lqye25dk3yd"
       }
     }
   }
