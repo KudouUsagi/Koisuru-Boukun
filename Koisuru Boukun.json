@@ -5,6 +5,46 @@
   "author": "Takanaga Hinako",
   "cover": "https://cdn.imgchest.com/files/2df4c0621627.png",
   "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1784592537",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/m9yxpakj64q"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1784592696",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/wl7lpjxg3yx"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1784592759",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9ryd9856n7k"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1784592827",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/qe4g96dwbyj"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "15",
+      "last_updated": "1784592881",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9p4nodevl7n"
+      }
+    },
     "78": {
       "title": "Vol 15 Plan 1",
       "volume": "15",
@@ -91,6 +131,14 @@
       "last_updated": "1784540958",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/6eyr83l8l7p"
+      }
+    },
+    "5.5": {
+      "title": "5.5",
+      "volume": "15",
+      "last_updated": "1784592937",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/5xy25vpo8yl"
       }
     }
   }
