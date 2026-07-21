@@ -1,0 +1,41 @@
+{
+  "title": "Challengers",
+  "description": "",
+  "artist": "Takanaga Hinako",
+  "author": "",
+  "cover": "https://cdn.imgchest.com/files/00e1a6d73867.jpg",
+  "chapters": {
+    "9": {
+      "title": "Volume 2 Chapter 4 The Unspeakable Reason",
+      "volume": "2",
+      "last_updated": "1784600863",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+      }
+    },
+    "12": {
+      "title": "Volume 3 Chapter 3: There's a Possibility Part 1",
+      "volume": "3",
+      "last_updated": "1784601009",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+      }
+    },
+    "13": {
+      "title": "Volume 3 Chapter 4: There's a Possibility Part 2",
+      "volume": "3",
+      "last_updated": "1784601199",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+      }
+    },
+    "15": {
+      "title": "Volume 4 Chapter 1: Three Piece",
+      "volume": "4",
+      "last_updated": "1784601322",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+      }
+    }
+  }
+}
