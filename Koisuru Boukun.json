@@ -223,10 +223,26 @@
     },
     "28": {
       "title": "28",
-      "volume": "5",
+      "volume": "6",
       "last_updated": "1784676205",
       "groups": {
         "Unknown": "/proxy/api/imgchest/chapter/n87wpovxb4x"
+      }
+    },
+    "29": {
+      "title": "29",
+      "volume": "6",
+      "last_updated": "1784676258",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/qb4z2o3nv4j"
+      }
+    },
+    "30": {
+      "title": "30",
+      "volume": "6",
+      "last_updated": "1784676311",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/vj4jpb3ee48"
       }
     },
     "78": {
